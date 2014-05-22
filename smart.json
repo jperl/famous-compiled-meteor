@@ -1,0 +1,8 @@
+{
+    "name": "famous-compiled",
+    "description": "The entire Famo.us library compiled into globals.",
+    "homepage": "https://github.com/jperl/famous-compiled-meteor",
+    "author": "Jon Perl <perl.jonathan@gmail.com>",
+    "version": "0.2.0",
+    "git": "https://github.com/jperl/famous-compiled-meteor.git"
+}
